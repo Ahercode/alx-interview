@@ -5,7 +5,7 @@ This repo contains all interview challenges from ALX Software Enginerring Progra
 ## Projects
 
 ## 0x00 Pascal Triangle
-
+> Technical interview challenge
 ### Tasks :heavy_check_mark:
 
 + [x] 0. **Pascal's Triangle**<br/>[0-pascal_triangle.py](0-pascal_triangle.py) contains a function `def pascal_triangle(n):` that returns a list of lists of integers representing the Pascal's triangle of `n`:
@@ -24,7 +24,7 @@ Finally, the triangle list is returned as the result of the function.
 
 ## 0x03 Minimum Operations :neckbeard:
 
-> Technical interview challenges
+> Technical interview challenge
 
 ### Tasks :heavy_check_mark:
 
