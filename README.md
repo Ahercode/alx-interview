@@ -2,7 +2,7 @@
 
 This project contains tasks for working module with Pascal's triangle as a challenge.
 
-## Tasks
+## Projects
 
 + [x] 0. **Pascal's Triangle**<br/>[0-pascal_triangle.py](0-pascal_triangle.py) contains a function `def pascal_triangle(n):` that returns a list of lists of integers representing the Pascal's triangle of `n`:
   + Returns an empty list if `n <= 0`.
@@ -17,3 +17,41 @@ For each row, it initializes an empty list line which will be used to store the 
 Finally, the triangle list is returned as the result of the function.
 
 ![](pascal_image.jpg)
+
+# 0x03 Minimum Operations :neckbeard:
+
+> Technical interview challenges
+
+## Tasks :heavy_check_mark:
+
+In a text file, there is a single character H. Your text editor can execute only two operations in this file: Copy All and Paste. Given a number n, write a method that calculates the fewest number of operations needed to result in exactly n H characters in the file.
+
+Prototype: def minOperations(n)
+Returns an integer
+If n is impossible to achieve, return 0
+Example:
+
+n = 9
+
+H => Copy All => Paste => HH => Paste =>HHH => Copy All => Paste => HHHHHH => Paste => HHHHHHHHH
+
+Number of operations: 6
+
+## Results :chart_with_upwards_trend:
+
+| Filename |
+| ------ |
+| [0-minoperations.py](https://github.com/Ahercode/alx-interview/blob/master/0x03-minimum_operations/0-minoperations.py)|
+
+## Additional info :construction:
+### Resources
+
+- Python 3.6
+
+
+### Try It On Your Machine :computer:
+```bash
+git clone https://github.com/Ahercode/alx-interview
+cd 0x03-minimum_operations
+./main_files/0-main
+```
