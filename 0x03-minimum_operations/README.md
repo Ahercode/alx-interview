@@ -21,7 +21,7 @@ Number of operations: 6
 
 | Filename |
 | ------ |
-| [0-minoperations.py](https://github.com/edward0rtiz/holbertonschool-interview/blob/master/0x03-minimum_operations/0-minoperations.py)|
+| [0-minoperations.py](https://github.com/Ahercode/alx-interview/blob/master/0x03-minimum_operations/0-minoperations.py)|
 
 ## Additional info :construction:
 ### Resources
@@ -31,7 +31,7 @@ Number of operations: 6
 
 ### Try It On Your Machine :computer:
 ```bash
-git clone https://github.com/edward0rtiz/holbertonschool-interview
+git clone https://github.com/Ahercode/alx-interview
 cd 0x03-minimum_operations
 ./main_files/0-main
 ```
