@@ -8,7 +8,7 @@ This repo contains all interview challenges from ALX Software Enginerring Progra
 > Technical interview challenge
 ### Tasks :heavy_check_mark:
 
-+ [x] 0. **Pascal's Triangle**<br/>[0-pascal_triangle.py](https://github.com/Ahercode/alx-interview/blob/master/0x00-pascal_triangle/0-pascal_triangle.py) contains a function `def pascal_triangle(n):` that returns a list of lists of integers representing the Pascal's triangle of `n`:
++ [x] 0. **Pascal's Triangle**<br/>[0-pascal_triangle.py](https://github.com/Ahercode/alx-interview/blob/main/0x00-pascal_triangle/0-pascal_triangle.py) contains a function `def pascal_triangle(n):` that returns a list of lists of integers representing the Pascal's triangle of `n`:
   + Returns an empty list if `n <= 0`.
   + You can assume `n` will be always an integer.
 
